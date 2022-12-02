@@ -1,0 +1,15 @@
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.csproj.AssemblyReference.cache
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.AssemblyInfoInputs.cache
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.AssemblyInfo.cs
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.csproj.CoreCompileInputs.cache
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\bin\Debug\net6.0\FinalCheckWork.exe
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\bin\Debug\net6.0\FinalCheckWork.deps.json
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\bin\Debug\net6.0\FinalCheckWork.runtimeconfig.json
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\bin\Debug\net6.0\FinalCheckWork.dll
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\bin\Debug\net6.0\FinalCheckWork.pdb
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.dll
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\refint\FinalCheckWork.dll
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.pdb
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\FinalCheckWork.genruntimeconfig.cache
+C:\Users\atrofimenko\Documents\Обучение\GB\Специализация\FinalCheckWork\obj\Debug\net6.0\ref\FinalCheckWork.dll
